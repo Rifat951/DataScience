@@ -1,0 +1,28 @@
+Q1,Q5,Q6,Q8,Q36,count
+18-21,Student,1-2 years,Python,No,460
+18-21,Student,1-2 years,Python,Yes,424
+18-21,Student,< 1 years,Python,No,245
+18-21,Student,< 1 years,Python,Yes,228
+22-24,Student,1-2 years,Python,Yes,216
+22-24,Student,1-2 years,Python,No,191
+22-24,Student,< 1 years,Python,No,138
+22-24,Student,< 1 years,Python,Yes,112
+25-29,Student,1-2 years,Python,Yes,75
+25-29,Student,< 1 years,Python,Yes,74
+25-29,Student,1-2 years,Python,No,68
+25-29,Student,< 1 years,Python,No,68
+30-34,Student,< 1 years,Python,Yes,25
+30-34,Student,< 1 years,Python,No,24
+30-34,Student,1-2 years,Python,Yes,21
+30-34,Student,1-2 years,Python,No,21
+18-21,Student,1-2 years,Java,No,6
+22-24,Student,1-2 years,Java,Yes,6
+18-21,Student,1-2 years,Java,Yes,4
+18-21,Student,< 1 years,Java,No,4
+22-24,Student,1-2 years,Java,No,3
+18-21,Student,< 1 years,Java,Yes,3
+22-24,Student,< 1 years,Java,No,2
+25-29,Student,1-2 years,Java,No,1
+30-34,Student,1-2 years,Java,Yes,1
+30-34,Student,< 1 years,Java,No,1
+22-24,Student,< 1 years,Java,Yes,1

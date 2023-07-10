@@ -1,0 +1,9 @@
+Q1,Q5,Q6,Q8,count
+18-21,Student,1-2 years,Python,884
+18-21,Student,< 1 years,Python,473
+22-24,Student,1-2 years,Python,407
+22-24,Student,< 1 years,Python,250
+18-21,Student,1-2 years,Java,10
+22-24,Student,1-2 years,Java,9
+18-21,Student,< 1 years,Java,7
+22-24,Student,< 1 years,Java,3

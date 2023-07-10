@@ -1,0 +1,60 @@
+Q1,Q5,Q6,Q8,Q37,count
+18-21,Student,1-2 years,Python,Variable,199
+18-21,Student,1-2 years,Python,Object and Class,182
+18-21,Student,1-2 years,Python,DataType,177
+18-21,Student,1-2 years,Python,Loop Structure,177
+18-21,Student,1-2 years,Python,Expression,149
+18-21,Student,< 1 years,Python,Loop Structure,109
+18-21,Student,< 1 years,Python,Variable,101
+18-21,Student,< 1 years,Python,Object and Class,96
+22-24,Student,1-2 years,Python,Object and Class,90
+18-21,Student,< 1 years,Python,Expression,89
+22-24,Student,1-2 years,Python,Expression,84
+22-24,Student,1-2 years,Python,DataType,81
+18-21,Student,< 1 years,Python,DataType,78
+22-24,Student,1-2 years,Python,Loop Structure,77
+22-24,Student,1-2 years,Python,Variable,75
+22-24,Student,< 1 years,Python,Variable,60
+22-24,Student,< 1 years,Python,Loop Structure,54
+22-24,Student,< 1 years,Python,DataType,51
+22-24,Student,< 1 years,Python,Object and Class,47
+22-24,Student,< 1 years,Python,Expression,38
+25-29,Student,< 1 years,Python,Variable,35
+25-29,Student,< 1 years,Python,Object and Class,35
+25-29,Student,1-2 years,Python,Loop Structure,35
+25-29,Student,1-2 years,Python,Expression,34
+25-29,Student,1-2 years,Python,Variable,32
+25-29,Student,< 1 years,Python,Expression,26
+25-29,Student,< 1 years,Python,Loop Structure,25
+25-29,Student,1-2 years,Python,Object and Class,23
+25-29,Student,< 1 years,Python,DataType,21
+25-29,Student,1-2 years,Python,DataType,19
+30-34,Student,< 1 years,Python,DataType,13
+30-34,Student,< 1 years,Python,Variable,12
+30-34,Student,1-2 years,Python,DataType,11
+30-34,Student,1-2 years,Python,Variable,9
+30-34,Student,< 1 years,Python,Expression,8
+30-34,Student,< 1 years,Python,Loop Structure,8
+30-34,Student,< 1 years,Python,Object and Class,8
+30-34,Student,1-2 years,Python,Expression,8
+30-34,Student,1-2 years,Python,Object and Class,7
+30-34,Student,1-2 years,Python,Loop Structure,7
+18-21,Student,1-2 years,Java,Loop Structure,4
+18-21,Student,< 1 years,Java,Variable,3
+22-24,Student,1-2 years,Java,Variable,3
+22-24,Student,1-2 years,Java,DataType,2
+18-21,Student,1-2 years,Java,Expression,2
+22-24,Student,1-2 years,Java,Object and Class,2
+18-21,Student,< 1 years,Java,DataType,2
+18-21,Student,1-2 years,Java,Object and Class,2
+22-24,Student,< 1 years,Java,Variable,2
+30-34,Student,< 1 years,Java,DataType,1
+18-21,Student,1-2 years,Java,DataType,1
+30-34,Student,1-2 years,Java,Variable,1
+25-29,Student,1-2 years,Java,Expression,1
+22-24,Student,1-2 years,Java,Loop Structure,1
+22-24,Student,1-2 years,Java,Expression,1
+18-21,Student,< 1 years,Java,Object and Class,1
+18-21,Student,< 1 years,Java,Loop Structure,1
+18-21,Student,1-2 years,Java,Variable,1
+22-24,Student,< 1 years,Java,Expression,1
